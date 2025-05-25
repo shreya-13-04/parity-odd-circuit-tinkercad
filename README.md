@@ -51,8 +51,3 @@ This repository contains the screenshot of the circuit and the circuit explanati
 ## 🔗 Tinkercad Project Link
 👉 https://www.tinkercad.com/things/7ISXCg6tA80-parity-odd?sharecode=KhqXKX1domJ2sVBAQeDfubeZ43saSa_7tlg7pAA-FNw
 
----
-
-## 📜 License
-
-This project is open-source and free to use for educational purposes.
